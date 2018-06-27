@@ -18,7 +18,7 @@ public class Main {
         System.out.println("Estoy aprendiendo a usar GitHub con netBeans");
         System.out.println("Va mejorando la cosa");
         System.out.println("Agregando cosas desde github para enviar y verlas en mi repo local");
-        
+        System.out.println("Para ver en la rama remota");
         
     }
     
