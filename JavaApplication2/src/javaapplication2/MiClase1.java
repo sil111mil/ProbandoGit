@@ -10,5 +10,7 @@ package javaapplication2;
  * @author sil
  */
 public class MiClase1 {
+    String nombre;
+    String apellido;
     
 }
