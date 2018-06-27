@@ -10,5 +10,6 @@ package javaapplication2;
  * @author sil
  */
 public class MiClase2 {
-    
+    private int num1;
+    private int num2;
 }
