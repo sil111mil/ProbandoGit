@@ -12,5 +12,6 @@ package javaapplication2;
 public class MiClase1 {
     String nombre;
     String apellido;
+    String direccion;
     
 }
