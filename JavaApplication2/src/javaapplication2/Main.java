@@ -19,6 +19,7 @@ public class Main {
         System.out.println("Va mejorando la cosa");
         System.out.println("Agregando cosas desde github para enviar y verlas en mi repo local");
         System.out.println("Esto es para dev");
+        System.out.println("Envio simultaneo en 2 ramas: desarr2 y dev");
         
     }
     
