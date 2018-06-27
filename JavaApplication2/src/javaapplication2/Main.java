@@ -16,7 +16,8 @@ public class Main {
      */
     public static void main(String[] args) {
         System.out.println("Estoy aprendiendo a usar GitHub con netBeans");
-        System.out.println("Mmmmmm");
+        System.out.println("Va mejorando la cosa");
+        
     }
     
 }
