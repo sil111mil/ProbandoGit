@@ -20,6 +20,7 @@ public class Main {
         System.out.println("Agregando cosas desde github para enviar y verlas en mi repo local");
         System.out.println("Para ver en la rama remota...");
         System.out.println("lalalala");
+        System.out.println("envio simultaneo en 2 ramas:desarr2 y dev");
     }
     
 }
