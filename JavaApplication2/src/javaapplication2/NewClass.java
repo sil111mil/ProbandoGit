@@ -10,5 +10,5 @@ package javaapplication2;
  * @author sil
  */
 public class NewClass {
-    
+    String deporte;
 }
